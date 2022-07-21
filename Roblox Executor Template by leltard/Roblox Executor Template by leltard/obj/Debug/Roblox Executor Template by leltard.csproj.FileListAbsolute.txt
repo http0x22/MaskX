@@ -1,0 +1,14 @@
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\bin\Debug\Roblox Executor Template by leltard.exe.config
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\bin\Debug\Roblox Executor Template by leltard.exe
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\bin\Debug\Roblox Executor Template by leltard.pdb
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\bin\Debug\FastColoredTextBox.dll
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\bin\Debug\WeAreDevs_API.dll
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox Executor Template by leltard.csproj.AssemblyReference.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox Executor Template by leltard.csproj.SuggestedBindingRedirects.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox_Executor_Template_by_leltard.MaskXMain.resources
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox_Executor_Template_by_leltard.Properties.Resources.resources
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox Executor Template by leltard.csproj.GenerateResource.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox Executor Template by leltard.csproj.CoreCompileInputs.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox Executor Template by leltard.csproj.CopyComplete
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox Executor Template by leltard.exe
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\Roblox Executor Template by leltard\Roblox Executor Template by leltard\obj\Debug\Roblox Executor Template by leltard.pdb
